@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-hello
+my name is João Felipe and i'm currently a software developer, nice to meet you 😁
 <!--
 **PudimLaranja/PudimLaranja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
